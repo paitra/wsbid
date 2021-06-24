@@ -1,2 +1,0 @@
-# wsbid
- Web Service
